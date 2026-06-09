@@ -1,0 +1,26 @@
+name: Bug report
+description: Report unclear, unsafe, or incorrect skill behavior
+title: "Bug: "
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the skill behavior that is unclear, unsafe, too broad, or incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should the skill instruct the agent to do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example prompt or scenario
+      description: Provide a generic prompt or scenario that reproduces the issue. Do not include private code.
+    validations:
+      required: false

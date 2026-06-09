@@ -1,0 +1,41 @@
+{
+  "name": "modular-robust-systems-architect",
+  "description": "AI agent skill for implementing modular, robust software architecture with scoped codebase discovery, clean boundaries, contracts, validation, migration safety, and verification.",
+  "author": {
+    "name": "Byron Jacobs",
+    "github": "savedpixel",
+    "profile": "https://github.com/savedpixel",
+    "email": "byron@middletek.com"
+  },
+  "license": "MIT",
+  "topics": [
+    "ai-agent",
+    "agent-skills",
+    "codex-skill",
+    "software-architecture",
+    "modular-architecture",
+    "robust-systems",
+    "system-design",
+    "refactoring",
+    "clean-architecture",
+    "ports-and-adapters",
+    "schema-validation",
+    "developer-tools",
+    "implementation-planning"
+  ],
+  "keywords": [
+    "modular software architecture",
+    "robust systems design",
+    "AI coding agent skill",
+    "Codex skill",
+    "contract-first development",
+    "safe migration planning"
+  ],
+  "visibility": "public",
+  "default_branch": "main",
+  "release": {
+    "tag": "v1.0.0",
+    "title": "Modular Robust Systems Architect v1.0.0",
+    "summary": "Initial public release of the modular and robust architecture agent skill, including skill instructions, templates, examples, references, issue templates, and validation workflow."
+  }
+}

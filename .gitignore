@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Local artifacts
+*.zip
+*.tar.gz
+
+# Logs
+*.log

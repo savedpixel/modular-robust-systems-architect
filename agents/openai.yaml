@@ -1,0 +1,7 @@
+interface:
+  display_name: "Modular Robust Systems Architect"
+  short_description: "Build implementation-ready modular architecture with scoped robustness, contracts, validation, migration safety, and verification."
+  brand_color: "#0F766E"
+  default_prompt: "Use the modular-robust-systems-architect skill. Ask targeted purpose and constraint questions first, inspect the relevant project evidence, then produce and execute a modular, robust implementation plan."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest a focused improvement to the skill
+title: "Feature: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What focused improvement should be added?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it helps
+      description: Explain how this improves modular architecture, robustness, implementation safety, or agent questioning.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope control
+      description: How should this avoid becoming global or overly generic?
+    validations:
+      required: true
